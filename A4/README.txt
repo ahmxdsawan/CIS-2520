@@ -7,11 +7,11 @@ READ ME:
 
 For A4:
 
-When you complie the program using the command "make" then execute the program using the command "./A4".
+When you compile the program using the command "make" then execute the program using the command "./A4".
 The program will automaticaly print out a new 20x10 new down heap algrothem. You are required to have a
 20x10 number array 
 
-To complite the program :-
+To compile the program :-
 
     1. make
     2. ./A4
